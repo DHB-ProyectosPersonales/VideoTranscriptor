@@ -1,0 +1,93 @@
+[0.00s 4.80s]  ¿Alguna vez te pusiste a pensar que tienen en común un hormiguero y una nave espacial?
+[4.80s 10.50s]  A simple vista, son completamente distintos, sin embargo, tienen más en común de lo que te imaginas.
+[10.50s 15.50s]  Ambos los podemos ver como sistemas, pero ¿qué es un sistema?
+[15.50s 21.30s]  Para Ludwig-Bomber-Talanffy, un sistema es un conjunto de unidades reciprocamente relacionadas,
+[21.30s 24.90s]  es decir, un conjunto de elementos que interactúan entre ellos.
+[24.90s 27.90s]  Por ejemplo, como hemos dicho, podría ser un hormiguero
+[27.90s 31.90s]  en el cual las hormigas colaboran entre ellas por un bien común.
+[31.90s 35.40s]  A su vez, una nave espacial puede interpretarse como un sistema,
+[35.40s 40.90s]  al ser un conjunto de componentes que conectados permiten los viajes al espacio.
+[40.90s 45.90s]  Los sistemas se pueden clasificar según su relación con el ambiente o su grave aislamiento
+[45.90s 48.40s]  en abiertos y cerrados.
+[48.40s 52.40s]  Un sistema abierto es aquel que entra en interacción con el medio exterior
+[52.40s 56.90s]  con el cual intercambia energía e información, como por ejemplo una estufa,
+[56.90s 59.40s]  porque transmite calor a un ambiente.
+[59.40s 65.40s]  En cambio, en un sistema cerrado, hay muy poco intercambio de energía e información con su entorno,
+[65.40s 67.90s]  como puede ser, por ejemplo, un termo,
+[67.90s 73.40s]  debido a que sirve para conservar la temperatura de un líquido por un largo tiempo.
+[73.40s 78.40s]  Además, podemos jerarquizar los sistemas según su nivel de complejidad.
+[78.40s 82.40s]  En primer lugar, tenemos el sistema, el cual definimos previamente
+[82.40s 85.40s]  como un conjunto de elementos relacionados.
+[85.40s 89.40s]  Estos elementos se pueden considerar como subsistemas.
+[89.40s 95.90s]  Por otro lado, nuestro sistema se encuentra inmerso en un entorno el cual es llamado suprasistema.
+[95.90s 101.40s]  Estos tres niveles no son independientes ya que están en una constante interacción.
+[101.40s 105.90s]  Podemos ejemplificar estos niveles tomando como sistema a una familia,
+[105.90s 109.90s]  la cual está conformada por individuos que podemos considerar subsistemas.
+[109.90s 115.90s]  A su vez, la familia pertenece a una comunidad que en este caso juega el papel de suprasistema.
+[116.90s 124.40s]  En el año 1928, el ya mencionado Ludwig Bombert-Alanfi propuso una herramienta muy útil relacionada a los sistemas,
+[124.40s 130.90s]  la teoría general de sistemas, la cual es una filosofía y un método científico para estudiar y analizar objetos,
+[130.90s 134.90s]  además de elaborar modelos de los mismos, considerándolos no aislados,
+[134.90s 137.90s]  sino en interacción con los demás elementos del entorno.
+[137.90s 144.40s]  Un ejemplo de esto se puede ver en una empresa ya que puede ser vista como un sistema compuesto por diferentes subsistemas,
+[144.40s 148.90s]  como el de producción, finanzas, recursos humanos, etc.
+[148.90s 153.90s]  La teoría general de sistemas se aplica al analizar cómo estos subsistemas interactúan
+[153.90s 158.40s]  y cómo la empresa en su conjunto puede ser optimizada para lograr sus objetivos.
+[159.40s 164.40s]  La teoría general de sistemas tiene como base diversos principios que la definen,
+[164.90s 167.40s]  mecanismos interdisciplinarios.
+[167.40s 171.90s]  Estos permiten estudiar a los sistemas, no solo desde el punto de vista reduccionista,
+[171.90s 176.90s]  es decir, cada subsistema por separada, sino también con un enfoque integral
+[176.90s 180.40s]  que ilustre las interacciones entre todas las partes.
+[180.40s 183.40s]  Hay una frase muy importante que transmite esta idea.
+[183.40s 186.40s]  El todo es mayor que la suma de las partes.
+[186.40s 191.40s]  Un ejemplo claro de este principio es una persona dentro de una comunidad.
+[191.40s 197.40s]  No podemos estudiar un individuo a su totalidad sin analizar también el entorno en el cual se encuentra.
+[198.40s 199.90s]  Generalidad.
+[199.90s 203.90s]  Se refiere a su capacidad de aplicarse a una amplia variedad de sistemas.
+[203.90s 207.90s]  Independientemente de su naturaleza, tamaño o complejidad.
+[207.90s 212.90s]  Se debe poder adaptar tanto a una empresa como a una manada de leones.
+[213.90s 214.90s]  Entropía.
+[214.90s 218.90s]  Es una medida del grado de desorden o la desorganización en un sistema.
+[218.90s 224.40s]  La entropía se origina principalmente por el transcurso del tiempo o por el propio funcionamiento del sistema
+[224.40s 227.40s]  y puede ser considerada como una forma de desgaste o deteriora.
+[227.40s 232.40s]  Se puede observar en un edificio, una computadora o una goma de borrar.
+[233.40s 236.40s]  Entropía negativa o negentropía.
+[236.40s 239.40s]  Se refiere al proceso de utilizar la energía y los recursos
+[239.40s 241.90s]  para reducir la entropía en un sistema.
+[241.90s 247.40s]  Es decir, para corregir o solucionar los errores o desgastes que hayan sido causado.
+[247.40s 251.90s]  La negentropía busca una posible solución para los desórdenes que puedan surgir
+[251.90s 255.90s]  con el fin de mantener el sistema en un estado ordenado y funcional.
+[255.90s 259.40s]  Algunos ejemplos que ilustran muy bien este concepto pueden ser
+[259.40s 262.40s]  una planta de tratamiento de aguas residuales
+[262.40s 264.90s]  y la remodelación o mantenimiento de edificios.
+[265.90s 267.90s]  Globalidad o sinergia.
+[267.90s 271.90s]  Nos dice que todo cambio en alguna de las partes afecta a todas las demás
+[271.90s 273.90s]  y en ocasiones al sistema completo.
+[274.90s 277.40s]  En esta escena de la película Bichos,
+[277.40s 281.40s]  se puede observar como el error del protagonista afecta a todo el sistema.
+[281.40s 283.40s]  En este caso, el hormiguero.
+[286.40s 287.40s]  Propósito.
+[287.40s 291.40s]  Nos indica que todos los sistemas son creados con un fin específico.
+[291.40s 294.40s]  Todos el sistema es diseñado y desarrollado con un objetivo claramente.
+[294.40s 296.90s]  Ya sea para cumplir una función particular,
+[296.90s 300.90s]  resolver un problema, mejorar un proceso o satisfacer una necesidad.
+[300.90s 304.40s]  Un nido de un pájaro es creado con el propósito específico
+[304.40s 308.40s]  de proporcionarle un lugar seguro y protegido para el crecimiento de las crías.
+[309.40s 311.40s]  Retroalimentación.
+[311.40s 315.40s]  Es el proceso por el cual un sistema obtiene y procesa información
+[315.40s 319.40s]  acerca de las funciones que ejecuta para generar acciones correctivas,
+[319.40s 322.40s]  preventivas o de optimización.
+[322.40s 326.40s]  Por ejemplo, el análisis de resultados de ventas de una empresa
+[326.40s 329.40s]  que le permiten mejorar el rumbo de la misma.
+[329.90s 331.90s]  Homeostasis.
+[331.90s 333.90s]  Se refiere a la capacidad de un sistema
+[333.90s 337.90s]  para mantener un equilibrio estable y constante en su ambiente interno
+[337.90s 341.90s]  a pesar de las variaciones o perturbaciones externas.
+[341.90s 344.90s]  Por ejemplo, las sociedades deben adaptarse a los cambios
+[344.90s 347.90s]  derivados de una revolución industrial.
+[347.90s 350.90s]  En conclusión, la teoría general de sistemas
+[350.90s 353.90s]  es importante porque proporciona una perspectiva global
+[353.90s 357.90s]  y un enfoque interdisciplinario para entender la complejidad de los sistemas.
+[357.90s 360.40s]  Lo que puede ayudar a resolver problemas complejos,
+[360.40s 363.40s]  facilitar la planificación y la toma de decisiones,
+[363.40s 366.40s]  fomentar la innovación y mejorar la eficiencia
+[366.40s 369.40s]  y efectividad de los sistemas existentes.
